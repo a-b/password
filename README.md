@@ -1,3 +1,3 @@
 # password
 
-https://github.com/search?utf8=✓&q=remove+password&type=Commits&ref=searchresults
+https://github.com/search?o=desc&q=remove+password&ref=searchresults&s=committer-date&type=Commits&utf8=✓
